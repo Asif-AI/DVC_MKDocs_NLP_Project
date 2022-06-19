@@ -10,8 +10,8 @@ site_author: Asif Khan
 site_description: >-
   DESCRIPTION
 # Repository
-repo_name: Asif-AI/DVC_MKDocs_Project
-repo_url: https://github.dev/Asif-AI/DVC_MKDocs_Project_Template
+repo_name: Asif-AI/DVC_MKDocs_NLP_Project
+repo_url: https://github.com/Asif-AI/DVC_MKDocs_Project_Template
 
 # Configuration
 theme:
